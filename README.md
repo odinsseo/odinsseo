@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SansBold! A university ICT student.
-- 👀 I’m interested in Data Science applied to healthcare and climate analysis.
-- 🌱 I’m currently learning object-oriented programming and how to clean code (in Java).
-- 💞️ I’m looking to collaborate on any project that is written in Java.
+- 👀 I’m interested in Data Science and Machine Learning applied in a multilingual context.
+- 🌱 I’m currently learning the fundaments of Machine Learning.
+- 💞️ I’m looking to collaborate on any project that involves NLP.
