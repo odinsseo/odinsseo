@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SansBold! A university ICT student.
+- 👋 Hi, I’m @odinsseo! A university ICT student.
 - 👀 I’m interested in Data Science and Machine Learning applied in a multilingual context.
 - 🌱 I’m currently learning the fundaments of Machine Learning.
 - 💞️ I’m looking to collaborate on any project that involves NLP.
